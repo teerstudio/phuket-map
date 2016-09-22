@@ -40,78 +40,59 @@
         // Multiple Markers
         var markers = [
 
+['	37 Thalang Guest House	',	7.88477	,	98.3883	], // Oldtown
+['	43 Guesthouse	',	7.88412	,	98.3895	], // Oldtown
+['	99 Oldtown Boutique Guesthouse	',	7.88477	,	98.3897	], // Oldtown
+['	A dessert moments	',	7.88486	,	98.3876	], // Oldtown
+['	Ai Phuket Hostel	',	7.88585	,	98.3876	], // Oldtown
+['	Fulfill Hostel Phuket	',	7.883	,	98.39	], // Oldtown
+['	Gallery Cafe	',	7.884094	,	98.3875	], // Oldtown
+['	Kopi De Phuket	',	7.882331	,	98.391247	], // Oldtown
+['	Pancake Corner	',	7.88412	,	98.3895	], // Oldtown
+['	Sino Imperial Phuket	',	7.882632	,	98.391199	], // Oldtown
+['	The Rommanee Classic Guesthouse	',	7.88504	,	98.3892	], // Oldtown
+['	Unforgettable	',	7.88352	,	98.3874	], // Oldtown
+['	Kopitiam	',	7.88474	,	98.3874	], // Oldtown
+['	Tom Yum Kung Restaurant	',	7.8837	,	98.3879	], // Oldtown
+['	Taitong Café	',	7.88477	,	98.3889	], // Oldtown
+['	Tukabkhao	',	7.88451	,	98.3867	], // Oldtown
+['	Phu Thalang Shop 	',	7.884869	,	98.38762	], // Oldtown
+['	Go Tum	',	7.88469	,	98.3887	], // Oldtown
+['	Club No.43	',	7.88451	,	98.3867	], // Oldtown
+['	Glass House Restaurant	',	7.88544	,	98.3912	], // Oldtown
+['	The Tint @ Phuket Town	',	7.88661	,	98.3924	], // Oldtown
+['	AMA Phuket Hostel	',	7.88544	,	98.3912	], // Oldtown
+['	The Memory at On On	',	7.88546	,	98.3902	], // Oldtown
+['	Macchiato House	',	7.8847584	,	98.3858809	], // Oldtown
+['	Coffs & Burgh	',	7.88546	,	98.3902	], // Oldtown
+
+['	Baan Laimai Beach Resort	',	7.88979	,	98.2931	], // Patong
+['	Eurasian Restaurant	',	7.89307	,	98.2957	], // Patong
+['	Heaven Spa & Massage	',	7.89331	,	98.2979	], // Patong
+['	Koolbackpacker Hostel	',	7.8934	,	98.2975	], // Patong
+['	Patong Backpacker	',	7.89496	,	98.2958	], // Patong
+['	Patong Beach Club	',	7.89253	,	98.2946	], // Patong
+['	Patong Boutique Hotel	',	7.8933	,	98.295	], // Patong
+['	Red Hot club	',	7.89308	,	98.2983	], // Patong
+['	Relaxing Massage	',	7.89298	,	98.297	], // Patong
+['	Sabai Sabai Restaurant Patong	',	7.891593	,	98.294109	], // Patong
+['	Savoey Restaurant	',	7.89406	,	98.2953	], // Patong
+['	R-Mar Resort and Spa	',	7.896244	,	98.298663	], // Patong
+['	The Royal Plam Beach	',	7.88949	,	98.2929	], // Patong
+['	Royal Baan Kamnan Restaurant	',	7.894836	,	98.295772	], // Patong
+['	Pimnara Spa	',	7.89287	,	98.2947	], // Patong
+['	Elle Bar Bistro Bed	',	7.89041	,	98.294	], // Patong
+['	Elephantgod Tattooart	',	7.89149	,	98.2942	], // Patong
+['	Orange Restaurant	',	7.89857	,	98.2976	], // Patong
+['	The Orchids	',	7.890024	,	98.2921405	], // Patong
+['	The Sweet Restaurant	',	7.89161	,	98.2948	], // Patong
+['	Passorn Massage	',	7.8954	,	98.2962	], // Patong
+['	Siam Healthland Phuket	',	7.89018	,	98.2933	], // Patong
+['	Tiras Patong Beach Phuket	',	7.8933	,	98.295	], // Patong
+['	Patong Rose Guest House	',	7.89016	,	98.294	], // Patong
+['	Andaman Embrace Patong	',	7.90013	,	98.2967	] // Patong
 
 
-          ['	The Rommanee Classic Guesthouse	',	7.885040	,	98.389200	],
-          ['	House	',	7.884870	,	98.387500	],
-          ['	NA SIAM Guesthouse	',	7.885870	,	98.387400	],
-          ['	Fulfill Hostel Phuket	',	7.883000	,	98.390000	],
-          ['	Sino Imperial Phuket	',	7.882632	,	98.391199	],
-          ['	Ai Phuket Hostel	',	7.885850	,	98.387600	],
-          ['	Chino Cafe Gallery	',	7.884800	,	98.387700	],
-          ['	A dessert moments	',	7.884790	,	98.387800	],
-          ['	Gallery Cafe	',	7.884090	,	98.387500	],
-          ['	Casa Blanca	',	7.883960	,	98.390800	],
-          ['	Unforgettable	',	7.883560	,	98.387400	],
-          ['	Pancarke Corner	',	7.883010	,	98.390700	],
-          ['	KOPI de Phuket	',	7.882331,98.391247	],//7.882331,98.391247
-          ['	ร้านเสวนา	',	7.884590	,	98.390700	],
-          ['	99 oldtown Butique Guesthouse	',	7.884808	,	98.389778	],
-          //['	Macchiato House and CakeBox	',	7.8847584, 98.3880696 ],
-          //['	The On On Hotel Phuket	',	7.883890	,	98.388591	],
-          ['	37 Thalang Guesthouse	',	7.884770	,	98.388300	],
-          ['	ร้านภูถลาง	',	7.884869	,	98.38762	],
-          ['	ร้านใต่ตง คาเฟ่	',	7.884770	,	98.388900	],
-          ['	Chino Town Gallery and Chino Gallery Guesthouse	', 7.885907,98.38671	],
-          ['	ร้านตู้กับข้าว	',	7.8836777, 98.3879619	], // : 7.8836777,98.3879619
-          ['	Mame Homemadecake	',	7.883672, 98.390484	], // 7.883672,98.390484
-          ['	Eleven and Co	',	7.884610	,	98.390000	],
-          ['	43 Guesthouse	',	7.8849212, 98.3882447	],
-          ['	โกปี๊เตี๊ยม	',	7.88477,98.388	],//7.8839291,98.3827489
-          ['	ต้มยำกุ้ง	',	7.883700	,	98.387900	],
-          ['	Tiras Patong Beach	',	7.890540	,	98.294000	],
-          ['	Molly Malones Irish Pub	',	7.891180	,	98.293900	],
-          ['	RED HOT CLUB	',	7.893350	,	98.298200	], // 7.8930849,98.2982203
-          ['	Relaxing Massage	',	7.8933510,98.2980980	],//7.8933510,98.2980980
-          ['	Eurasian Restaurang	',	7.893450	,	98.296800	],
-          ['	Double \'s Bar	',	7.893360	,	98.297900	],
-          ['	The Royal Plam Beach	',	7.889766	,	98.292972	],
-          ['	The Charm Resort	',	7.904125	,	98.298446	],
-          ['	ร้านเสวย	',	7.894060	,	98.295300	],
-          ['	Pimnara Spa	',	7.892800	,	98.294600	],
-          ['	Patong Beach Club	',	7.892530	,	98.294600	],
-          ['	Haven Spa & Massage	',	7.893310	,	98.297900	],
-          ['	Patong Boutique Hotel	',	7.893920	,	98.295100	],
-          ['	Baan Lai Mai Patongbeach Resort	',	7.889790	,	98.293100	],
-          ['	Paradise Bar	',	7.89339,98.2974	],
-          ['	Laflora Patong	',	7.895696	,	98.296077	],
-          ['	โรงแรมโทรปิก้า	',	7.893868	,	98.295312	],
-          ['	หจก.จินตนา และบุษส์ R-mars	',	7.896244	,	98.298663	],
-          ['	ANdaman Embrace Patong	',	7.898981	,	98.298949	],
-          ['	Aussie Bar	',	7.893758	,	98.296160	],
-          ['	Patong Backpacker	',	7.894826	,	98.295740	],
-          ['	Koolbackpacker Hostel	',	7.893417	,	98.298027	],
-          ['	The Sweet Restaurant	',	7.891830	,	98.295397	],
-          ['	Sabai Sabai Restaurant Patong	',	7.891593	,	98.294109	],
-          ['	Bann Pron Phateep	',	7.898894	,	98.297302	],
-
-          ['	Andara Resort and Villas	',	7.949092	,	98.275243	],
-          //['	Amata Resort	',	7.887103	,	98.294353	],
-          ['	The Senses Resort	',	7.88841	,	98.30428	],
-          ['	โรงแรมภูเก็ต เกรซแลนด์ รีสอร์ทแอนด์สปา	',	7.886196	,	98.279401	],
-          ['	Phuket Fish Market Restaurant	',	7.839541	,	98.366826	],
-          ['	Baan Yin Dee Boutique Resort	',	7.984331	,	98.3307	],
-          ['	บริษัท อนุภาษมอเตอร์เซลล์	',	7.919261	,	98.369773	],
-          ['	โรงแรมป่าตองล็อจ	',	7.910216	,	98.296963	],
-          //['	The Lantern Resort Patong	',	7.892649	,	98.300213	],
-          ['	โรงแรมบ้านยุรี รีสอร์ท แอนด์ สปา	',	7.878483	,	98.294278	],
-          //['	โรงแรมโทนี่ รีสอร์ท	',	7.88989	,	98.295745	],
-          ['	บริษัท ทัวร์บาย ยู จำกัด	',	7.952137	,	98.389556	],
-          ['	โรงแรมถาวรบีช วิลเลจรีสอร์ท	',	7.926197	,	98.273284	],
-          //['	PIC Phuket	',	7.8879805	,	98.2957126	],
-          //['	The nap	',	7.899861	,	98.298936	],
-          ['	Sino House Phuket Hotel	',	7.886652	,	98.393455	],
-          ['	Sino In	',	7.888036	,	98.380602	]
         ];
 
         // Display multiple markers on a map

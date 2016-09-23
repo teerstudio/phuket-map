@@ -90,7 +90,7 @@
 ['	Siam Healthland Phuket	',	7.89018	,	98.2933	], // Patong
 ['	Tiras Patong Beach Phuket	',	7.890438	,	98.293942	], // Patong
 ['	Patong Rose Guest House	',	7.890158	,	98.294093	], // Patong
-['	Andaman Embrace Patong	',	7.898991	,	98.29896	], // Patong
+['	Andaman Embrace Patong	',	7.898991	,	98.29896	] // Patong
 
 
         ];

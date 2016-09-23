@@ -67,11 +67,11 @@
         ['Macchiato House',7.88476,98.388069], // Oldtown
         ['Coffs & Burgh',7.884692,98.389667], // Oldtown
         
-        ['Baan Laimai Beach Resort',7.889843, ,98.293153], // Patong
-        ['Eurasian Restaurant',7.893395, ,98.296639], // Patong
-        ['Heaven Spa & Massage',7.893146, ,98.298049], // Patong
-        ['Koolbackpacker Hostel',7.893413, ,98.298028], // Patong
-        ['Patong Backpacker',7.894805, ,98.295777], // Patong
+        ['Baan Laimai Beach Resort',7.889843 ,98.293153], // Patong
+        ['Eurasian Restaurant',7.893395 ,98.296639], // Patong
+        ['Heaven Spa & Massage',7.893146 ,98.298049], // Patong
+        ['Koolbackpacker Hostel',7.893413 ,98.298028], // Patong
+        ['Patong Backpacker',7.894805 ,98.295777], // Patong
         ['Patong Beach Club',7.89253,98.294521], // Patong
         ['Patong Boutique Hotel',7.893331,98.294886], // Patong
         ['Red Hot club',7.89308,98.2983], // Patong
@@ -92,7 +92,6 @@
         ['Tiras Patong Beach Phuket',7.890438,98.293942], // Patong
         ['Patong Rose Guest House',7.890158,98.294093], // Patong
         ['Andaman Embrace Patong',7.898991,98.29896	] // Patong
-
 
         ];
 

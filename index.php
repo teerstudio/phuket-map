@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Phuket Map - 23 Sep 2016 : 14.47</title>
+    <title>Phuket Map - 23 Sep 2016 : 14.49</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -85,7 +85,7 @@
                       ['The Tint @ Phuket Town',7.886691,98.392281], // Oldtown
                       ['AMA Phuket Hostel',7.884793,98.392856], // Oldtown
                       ['The Memory at On On',7.884008,98.388488], // Oldtown
-                      ['Macchiato House',7.884747,98.388741], // Oldtown
+                      ['Macchiato House',7.884701,98.388585], // Oldtown
                       ['Coffs & Burgh',7.884692,98.389667], // Oldtown
 
         ];

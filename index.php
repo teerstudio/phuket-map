@@ -54,7 +54,7 @@
         ['The Rommanee Classic Guesthouse',7.884958,98.38737], // Oldtown
         ['Unforgettable',7.88355,98.387486], // Oldtown
         ['Kopitiam',7.884752,98.388092], // Oldtown
-        ['Tom Yum Kung Restaurant',7.812637,98.298554], // Oldtown
+        ['Tom Yum Kung Restaurant',7.883879,98.387889], // Oldtown
         ['Taitong Café',7.884746,98.388245], // Oldtown
         ['Tukabkhao',7.883679,98.387952], // Oldtown
         ['Phu Thalang Shop ',7.884931,98.388254], // Oldtown

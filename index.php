@@ -85,7 +85,7 @@
                       ['The Tint @ Phuket Town',7.886691,98.392281], // Oldtown
                       ['AMA Phuket Hostel',7.884793,98.392856], // Oldtown
                       ['The Memory at On On',7.884008,98.388488], // Oldtown
-                      ['Macchiato House',7.88476,98.388069], // Oldtown
+                      ['Macchiato House',7.884747,98.388741], // Oldtown
                       ['Coffs & Burgh',7.884692,98.389667], // Oldtown
 
         ];
